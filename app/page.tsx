@@ -38,7 +38,7 @@ export default function Home() {
           </h1>
 
           <p className="mt-6 max-w-xl text-lg text-ink/70">
-            A frontend developer studying BSIT, building clean, functional
+            A web developer studying BSIT, building clean, functional
             interfaces one project at a time.
           </p>
 
