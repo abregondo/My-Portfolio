@@ -27,7 +27,7 @@ const plexMono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Jazee Kyl A. Abregondo — Frontend Developer",
+  title: "My Portfolio",
   description:
     "Portfolio of Jazee Kyl A. Abregondo, a BSIT student and frontend developer.",
 };
