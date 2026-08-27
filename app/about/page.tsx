@@ -18,12 +18,12 @@ const timeline = [
   {
     year: "Present",
     label: "BSIT Student",
-    detail: "Currently taking up a Bachelor of Science in Information Technology, focused on frontend development.",
+    detail: "Currently taking up a Bachelor of Science in Information Technology.",
   },
   {
     year: "Ongoing",
     label: "Building",
-    detail: "Practicing by building small projects with React and Next.js — edit this line with your latest milestone.",
+    detail: "Practicing by building small projects with JavaScript, React and Next.js",
   },
 ];
 
